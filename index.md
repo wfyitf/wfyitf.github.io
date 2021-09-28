@@ -6,7 +6,7 @@ My interests mainly focus on machine learning, transfer learning and information
 
 Contact: xuetongw1[at]student.unimelb.edu.au
 
-[Email](<xuetongw1@student.unimelb.edy.au>) / [Google Scholar](https://scholar.google.com.au/citations?user=8KT15GYh1JsC&hl=en&authuser=1&oi=ao)
+[Email](mailto:xuetongw1@student.unimelb.edu.au) / [Google Scholar](https://scholar.google.com.au/citations?user=8KT15GYh1JsC&hl=en&authuser=1&oi=ao)
 
 ### Research
 
