@@ -31,9 +31,10 @@ Work and Intern Experience
 
 Skills
 ======
-* Python, Matlab, LaTex, 
-* Skill 2
-* Skill 3
+* Programming (Python, Matlab, R, JAVA, C, LaTeX)
+* High Speed Electronics and Printed Circuit Board Design 
+* Signal Processing and Communication Systems  
+* Machine learning and Deep Learning
 
 Publications
 ======
