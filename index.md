@@ -6,8 +6,14 @@ My interests mainly focus on machine learning, transfer learning and information
 
 Contact: xuetongw1[at]student.unimelb.edu.au
 
+[Email](<xuetongw1@student.unimelb.edy.au>) / [Google Scholar](https://scholar.google.com.au/citations?user=8KT15GYh1JsC&hl=en&authuser=1&oi=ao)
 
-### Research Highlights
+### Research
 
+[1] **X Wu**, JH Manton, U Aickelin, J Zhu. A Bayesian Approach to (Online) Transfer Learning: Theory and Algorithms. arXiv preprint.
 
-[1] 
+[2] **X Wu**, JH Manton, U Aickelin, J Zhu. Online Transfer Learning: Negative Transfer and Effect of Prior Knowledge. In IEEE International Symposium on Information Theory (ISIT2021).
+
+[3] **X Wu**, JH Manton, U Aickelin, J Zhu. Information-theoretic analysis for transfer learning. In IEEE International Symposium on Information Theory (ISIT2020).
+
+[4] **X Wu**, HA Khorshidi, U Aickelin, Z Edib, M Peate. Imputation techniques on missing values in breast cancer treatment and fertility data. In Health information science and systems 2019.
