@@ -10,7 +10,7 @@ Contact: xuetongw1[at]student.unimelb.edu.au
 
 ### Research
 
-[1] **X Wu**, JH Manton, U Aickelin, J Zhu. A Bayesian Approach to (Online) Transfer Learning: Theory and Algorithms. arXiv preprint.
+[1] **X Wu**, JH Manton, U Aickelin, J Zhu. A Bayesian Approach to (Online) Transfer Learning: Theory and Algorithms. arXiv preprint 2109.01377.
 
 [2] **X Wu**, JH Manton, U Aickelin, J Zhu. Online Transfer Learning: Negative Transfer and Effect of Prior Knowledge. In IEEE International Symposium on Information Theory (ISIT2021).
 
