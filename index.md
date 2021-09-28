@@ -1,8 +1,13 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/wfyitf/wfyitf.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a third year Ph.D. student at EEE/CS department of the University of Melbourne, advised by Dr. Jingge Zhu, Prof. Jonathan and Prof. Uwe Aickelin. Before that, I obtained my master and bachelor degree in EEE at Unversity of Melbourne and Fudan University in 2018 and 2016, repectively. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My interests mainly focus on machine learning, transfer learning and information theory.
 
-### Research
+Contact: xuetongw1[at]student.unimelb.edu.au
 
+
+### Research Highlights
+
+
+[1] 
